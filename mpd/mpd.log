@@ -1,0 +1,3 @@
+Jul 19 12:39 : exception: Failed to open '/home/divyanshu/.config/mpd/mpdstate': No such file or directory
+Jul 19 12:39 : exception: Failed to access /home/divyanshu/Music: No such file or directory
+Jul 19 13:18 : exception: Failed to commit /home/divyanshu/.config/mpd/mpdstate: File exists
